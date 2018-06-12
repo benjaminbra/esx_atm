@@ -4,4 +4,8 @@ Locales['de'] = {
 	['withdraw_money'] = 'abgehoben ~g~$%s~s~', 
 	['press_e_atm']    = 'Drücke ~INPUT_PICKUP~ um auf den ~g~ATM~s~ zuzugreifen.',
 	['atm_blip']       = 'ATM',
+	['hello']          = 'Hallo',
+	['welcome_text']   = 'Vielen Dank für die Nutzung unserer Fleeca Bank Terminals',
+	['withdraw']       = 'Abheben',
+	['deposit']        = 'Einzahlen',
 }

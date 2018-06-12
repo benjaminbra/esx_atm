@@ -7,6 +7,10 @@ $(window).ready(function () {
 			$('#container').fadeIn();
 			$('#menu').fadeIn();
 			$('#deposit_amount').val(data.player.money);
+            $('#hello_message').text(data.locale.hello);
+            $('#welcome_text').text(data.locale.welcome_text);
+            $('#deposit_btn').text(data.locale.deposit);
+            $('#withdraw_btn').text(data.locale.withdraw);
 			let bankAmount = 0;
 			for (let i = 0; i < data.player.accounts.length; i++) {
 				if (data.player.accounts[i].name == 'bank') {

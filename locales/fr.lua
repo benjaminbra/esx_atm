@@ -4,4 +4,8 @@ Locales['fr'] = {
 	['withdraw_money'] = 'vous avez retiré ~g~$%s~s~',
 	['press_e_atm']    = 'appuyez sur ~INPUT_PICKUP~ pour déposer ou retirer du ~g~cash~s~.',
 	['atm_blip']       = 'ATM',
+	['hello']          = 'Bonjour',
+	['welcome_text']   = 'Merci d'utiliser nos bornes Fleeca Bank',
+	['withdraw']       = 'Déposer',
+	['deposit']        = 'Retirer',
 }

@@ -4,4 +4,8 @@ Locales['sv'] = {
 	['withdraw_money'] = 'du har tagit ut ~g~$%s~s~', 
 	['press_e_atm']    = 'tryck ~INPUT_PICKUP~ för att komma åt denna ~g~ATM~s~',
 	['atm_blip']       = 'bankomat',
+	['hello']          = 'Hej',
+	['welcome_text']   = 'Tack för att du använde våra Fleeca Bank terminaler',
+	['withdraw']       = 'Dra tillbaka',
+	['deposit']        = 'Deposition',
 }

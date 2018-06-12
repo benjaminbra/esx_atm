@@ -124,6 +124,12 @@ Citizen.CreateThread(function()
 						player = {
 							money = data.money,
 							accounts = data.accounts
+						},
+						locale = {
+						    hello = _U('hello')
+						    welcome_text = _U('welcome_text')
+						    withdraw = _U('withdraw')
+						    deposit = _U('deposit')
 						}
 					})
 				end)
