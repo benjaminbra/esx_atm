@@ -24,6 +24,11 @@ git clone https://github.com/ESX-Org/esx_atm [esx]/esx_atm
 start esx_atm
 ```
 
+## Configuration
+
+Blips are desactived by default. <br/>
+To activate them, replace `Config.EnableBlips = false` by `Config.EnableBlips = true` in `config.lua`
+
 # Legal
 ### License
 esx_atm - atm script for ESX
